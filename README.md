@@ -20,5 +20,5 @@
 
 <a href="https://anyesu.github.io">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anyesu&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anyesu&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=7&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&card_width=445&theme=graywhite" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anyesu&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&card_width=445&theme=graywhite" />
 </a>
