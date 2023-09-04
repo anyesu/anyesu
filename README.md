@@ -2,7 +2,7 @@
 
 <img align='right' src="https://raw.githubusercontent.com/chandan-reddy-k/chandan-reddy-k/master/assets/coding-freak.gif" width="230">
 
-[![GitHub](https://img.shields.io/badge/-%20-181717?logo=github)](https://github.com/anyesu) [![JianShu](https://img.shields.io/badge/简-ea6f5a)](https://www.jianshu.com/u/c5327915649c) [![Home Page](https://img.shields.io/badge/🏠-4fc08d)](https://anyesu.github.io) [![Profile views](https://visitor-badge.glitch.me/badge?page_id=anyesu.anyesu)](https://github.com/anyesu)
+[![GitHub](https://img.shields.io/badge/-%20-181717?logo=github)](https://github.com/anyesu) [![JianShu](https://img.shields.io/badge/简-ea6f5a)](https://www.jianshu.com/u/c5327915649c) [![Home Page](https://img.shields.io/badge/🏠-4fc08d)](https://anyesu.github.io) [![Profile views](https://visitor-badge.laobi.icu/badge?page_id=anyesu.anyesu)](https://github.com/anyesu)
 
 **😜 I'm [anyesu](https://github.com/anyesu) , a Full-Stack Web Developer from China.**
 
