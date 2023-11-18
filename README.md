@@ -14,11 +14,11 @@
 
 ### 🎨 Tech Stacks
 
-![Spring](https://img.shields.io/badge/-Spring-6db33f?&logo=Spring&logoColor=fff) ![UWP](https://img.shields.io/badge/-UWP-913eb0?&logo=Microsoft) ![Node.js](https://img.shields.io/badge/-Node.js-339933?&logo=node.js&logoColor=fff) ![React](https://img.shields.io/badge/-React-61dafb?&logo=React&logoColor=222) ![Linux](https://img.shields.io/badge/-Linux-fcc624?&logo=Linux&logoColor=222) ![Python](https://img.shields.io/badge/-Python-3776ab?&logo=Python&logoColor=fff) ![DevOps](https://img.shields.io/badge/-DevOps-343434?&logo=CircleCI&logoColor=fff) ![Docker](https://img.shields.io/badge/-Docker-2496ed?&logo=Docker&logoColor=fff)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6db33f?logo=Spring%20Boot&logoColor=fff) ![Android](https://img.shields.io/badge/Android-3ddc84?logo=Android&logoColor=fff) ![UWP](https://img.shields.io/badge/-UWP-913eb0?&logo=Microsoft) ![Node.js](https://img.shields.io/badge/-Node.js-339933?&logo=node.js&logoColor=fff) ![React](https://img.shields.io/badge/-React-61dafb?&logo=React&logoColor=222) ![Linux](https://img.shields.io/badge/-Linux-fcc624?&logo=Linux&logoColor=222) ![Python](https://img.shields.io/badge/-Python-3776ab?&logo=Python&logoColor=fff) ![DevOps](https://img.shields.io/badge/-DevOps-343434?&logo=CircleCI&logoColor=fff) ![Docker](https://img.shields.io/badge/-Docker-2496ed?&logo=Docker&logoColor=fff)
 
 ---
 
 <a href="https://anyesu.github.io">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anyesu&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&card_width=445&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anyesu&hide_title=true&hide_border=true&show_icons=true&include_all_commits=false&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&card_width=445&theme=tokyonight" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anyesu&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&card_width=445&theme=graywhite" />
 </a>
