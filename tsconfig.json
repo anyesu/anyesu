@@ -13,5 +13,6 @@
     "suppressImplicitAnyIndexErrors": true,
     "noImplicitReturns": true,
     "noUnusedLocals": true
-  }
+  },
+  "include": ["scripts/**/*.ts"]
 }

@@ -20,6 +20,7 @@
   "author": "anyesu (https://github.com/anyesu)",
   "type": "module",
   "scripts": {
+    "generate": "tsx scripts/generate.ts",
     "postinstall": "simple-git-hooks",
     "lint": "run-s -snc lint:*",
     "lint-staged:eslint": "eslint --cache --ext .js,.cjs,.mjs,.ts,.cts,.mts --format=pretty",
@@ -38,10 +39,14 @@
   "devDependencies": {
     "@ianvs/prettier-plugin-sort-imports": "4.1.0",
     "@tsconfig/recommended": "1.0.3",
+    "@types/node": "20.6.2",
     "@types/prettier": "2.7.3",
+    "@types/qs": "6.9.10",
     "@typescript-eslint/eslint-plugin": "6.7.2",
     "@vue/eslint-config-prettier": "7.0.0",
+    "axios": "1.6.0",
     "chokidar": "3.5.3",
+    "es-main": "1.3.0",
     "eslint": "7.32.0",
     "eslint-config-prettier": "9.0.0",
     "eslint-formatter-pretty": "5.0.0",
@@ -53,6 +58,7 @@
     "prettier": "2.8.8",
     "prettier-plugin-organize-attributes": "0.0.5",
     "prettier-plugin-packagejson": "2.3.0",
+    "qs": "6.11.2",
     "simple-git-hooks": "2.9.0",
     "tsx": "3.12.10",
     "typescript": "4.6.4"
